@@ -15,5 +15,3 @@ Fique à vontade para entrar em contato comigo. Você pode me encontrar nos segu
 
 - Email: matheusfernandesluz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/matheusfernandesluz
-
-Estou sempre aberto a novas oportunidades e adoro conhecer pessoas que compartilham a mesma paixão pela programação. Vamos nos conectar e construir coisas incríveis juntos!

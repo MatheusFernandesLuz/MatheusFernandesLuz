@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
+## Sobre mim 📄
+Sou um desenvolvedor com mais de 4 anos de experiência na área de tecnologia, já trabalhei com suporte e atendimento e agora com desenvolvimento de sistemas WEB e Desktop com tecnologias .NET e ReactJS. Tenho uma paixão por criar soluções inovadoras e eficientes que agregam valor aos usuários finais.
 
-<!--
-**MatheusFernandesLuz/MatheusFernandesLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e Habilidades 🧑‍💻
+Linguagens de Programação: C#, JavaScript, TypeScript
+Frameworks: .NET, .NET Framework, ASP.NET, ReactJS
+Banco de Dados: SQL Server, MySQL, PostgreSql
+Controle de Versão: Git, GitHub, Bitbucket
+Metodologias Ágeis: Scrum, Kanban
+Padrões de Projeto: MVC, MVVM
+Práticas de Desenvolvimento: SOLID, Clean Code, Design Patterns
 
-Here are some ideas to get you started:
+## Contato ☎️
+Se você está interessado em colaborar em um projeto ou apenas quer bater um papo sobre desenvolvimento de software, fique à vontade para entrar em contato comigo. Você pode me encontrar nos seguintes canais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: seu.email@gmail.com
+LinkedIn: seu-perfil-linkedin
+Estou sempre aberto a novas oportunidades e adoro conhecer pessoas que compartilham a mesma paixão pela programação. Vamos nos conectar e construir coisas incríveis juntos!
